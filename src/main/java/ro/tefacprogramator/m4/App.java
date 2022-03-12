@@ -23,7 +23,7 @@ public class App
 
         double rez;
         rez = Calculator.divide(5, 7);
-        System.out.println("result = " + result);
+        System.out.println("result = " + rez);
 
 
 

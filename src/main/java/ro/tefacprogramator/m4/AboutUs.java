@@ -1,5 +1,7 @@
 package ro.tefacprogramator.m4;
 
 public class AboutUs {
-    System.out.println("About Us");
+    public void showMessage() {
+        System.out.println("hello");
+    }
 }

@@ -23,7 +23,7 @@ public class App
 
 
         result = Calculator.divide(5, 7);
-        System.out.println("result = " + result);
+        System.out.println("the result is: " + result);
 
 
 

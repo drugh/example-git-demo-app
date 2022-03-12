@@ -21,8 +21,8 @@ public class App
         result = Calculator.multiply(5, 7);
         System.out.println("result = " + result);
 
-
-        result = Calculator.divide(5, 7);
+        double rez;
+        rez = Calculator.divide(5, 7);
         System.out.println("result = " + result);
 
 

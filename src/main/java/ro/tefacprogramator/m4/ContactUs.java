@@ -5,4 +5,8 @@ public class ContactUs {
         System.out.println("email");
         System.out.println("message");
     }
+
+    public void saveMessage() {
+        // save the message
+    }
 }

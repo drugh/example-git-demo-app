@@ -13,5 +13,19 @@ public class App
         int result = Calculator.add(5, 7);
 
         System.out.println("result = " + result);
+
+        result = Calculator.subtract(5, 7);
+        System.out.println("result = " + result);
+
+
+        result = Calculator.multiply(5, 7);
+        System.out.println("result = " + result);
+
+
+        result = Calculator.divide(5, 7);
+        System.out.println("result = " + result);
+
+
+
     }
 }
